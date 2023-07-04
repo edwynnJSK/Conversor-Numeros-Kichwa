@@ -13,7 +13,7 @@ El sistema mostrará una ventana para ingresar números, ingrese el número en e
 pantalla el resultado obtenido para el número ingresado. Después, el sistema mostrará una ventana preguntado si desea continuar traduciendo 
 otros números, ingrese "si" si desea continuar o "no" para salir del sistema.
 
---
+---
 ## Contacto
 Si tienes alguna pregunta o inquietud, contáctanos a través de los siguientes correos:daniel.carvajal01@epn.edu.ec, edwin.pillajo@epn.edu.ec, 
 jhoaho.sanchez@epn.edu.ec o lisbeth.romo@epn.edu.ec.
