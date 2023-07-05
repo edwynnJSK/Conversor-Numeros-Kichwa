@@ -6,12 +6,12 @@ problema del numero ingresado por el usuario.
 ## Instalación
 1. Clone el repositorio en su IDE, de preferencia IntellijIDEA.
 2. Instale las dependencias requeridas desde el archivo pom.xml.
-2. Ejecute el programa desde la clase Main.
+3. Ejecute el programa desde la clase Main.
+4. En el caso que ejecute el arhivo App.jar de la carpeta Archivo ejecutable debe asegurarse que su computador tiene instalado Java para
+   ejecutar el archivo.
 
 ## Uso
-El sistema mostrará una ventana para ingresar números, ingrese el número en el campo y el sistemá traducira a Kichwa de Ecuador y mostrará en 
-pantalla el resultado obtenido para el número ingresado. Después, el sistema mostrará una ventana preguntado si desea continuar traduciendo 
-otros números, ingrese "si" si desea continuar o "no" para salir del sistema.
+El sistema mostrará una ventana para ingresar números, ingrese el número en el campo y el sistemá traducira a Kichwa de Ecuador y mostrará en pantalla el resultado obtenido para el número ingresado. Después, el sistema mostrará una ventana preguntado si desea continuar traduciendo otros números, ingrese "si" si desea continuar o "no" para salir del sistema.
 
 ---
 ## Contacto
