@@ -25,7 +25,7 @@ public class Main {
         boolean opcion = true;
         String resultado = "";
         do {
-            numeroIngresado = JOptionPane.showInputDialog("\tConversor de números a kichwa\nIngrese un número:\n");
+            numeroIngresado = JOptionPane.showInputDialog("\tConversor de números a kichwa\nIngrese un número entre el 0 y 9999:\n");
             if (numeroIngresado == null) {
                 JOptionPane.showMessageDialog(null, "Opción inválida\nVuelva a ingresar");
             } else {
