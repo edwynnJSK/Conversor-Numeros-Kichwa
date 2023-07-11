@@ -31,7 +31,7 @@ public class Validacion {
     }
 
     public boolean validarLetras(String texto) {
-        Pattern pattern = Pattern.compile("[A-Za-z0-9\\s]+");
+        Pattern pattern = Pattern.compile("[A-Za-z\\s]+");
         Matcher matcher = pattern.matcher(texto);
         return matcher.matches();
     }
